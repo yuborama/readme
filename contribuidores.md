@@ -1,1 +1,1 @@
-<div style="width:100px; background-color: blue; "> </div
+<div style="width: 100px; height: 100px; background-color: blue; border-radius: 50%;"></div>
